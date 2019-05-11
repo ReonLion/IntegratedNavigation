@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
-    int a=0;
+    int a=2;
     int b=3;
     int c=a+b;
     qDebug()<<a<<"+"<<b<<"="<<c;

@@ -3,4 +3,5 @@ debug/*
 release/*
 Makefile*
 *qmake*
+*.user
 build.cmd
