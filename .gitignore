@@ -1,1 +1,6 @@
 .vscode/*
+debug/*
+release/*
+Makefile*
+*qmake*
+build.cmd
